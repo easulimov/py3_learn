@@ -10,7 +10,7 @@ print(f"Let's talk about a man named {my_name}.")
 print(f"His height is {my_height}.")
 print(f'His weight is {my_weight}.')
 print(f"In fact it is not that much.")
-print(f"Hi has {my_eyes} eyes and {my_hair} my_hair.")
+print(f"Hi has {my_eyes} eyes and {my_hair} hair.")
 print(f"Usually his teeth {my_teeth}, although he likes to drink coffee")
 
 #This this line of code is pretty tricky
