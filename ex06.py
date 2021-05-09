@@ -3,11 +3,11 @@ types_of_people = 10
 x = f"There are {types_of_people} types of people"
 
 # declare string variables
-bynary1 = "Python"
+interpret = "Python"
 do_not = "No"
 
 # declare a variable of string type that includes two integer variables
-y = f"Those who understand {bynary1} and those who {do_not}"
+y = f"Those who understand {interpret} and those who {do_not}"
 
 
 # display x and y
