@@ -32,5 +32,5 @@ print(joke_evaluation.format(hilarious))
 w = "This is part of the line on the left"
 e = " and this is on the right"
 
-# concatenate and display string variables with and e
+# concatenate and display string variables with w and e
 print(w + e)
